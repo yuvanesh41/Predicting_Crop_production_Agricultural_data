@@ -21,7 +21,7 @@ This project is a powerful blend of data science and web-based analytics, helpin
 
 2.Sql
 
-*CREATE DATABASE agriculture_data;
+*CREATE DATABASE agriculture;
 
 3.pip install virtualenv
 
